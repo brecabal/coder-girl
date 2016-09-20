@@ -1,0 +1,54 @@
+.navbar-default{
+	margin-bottom: 0px;
+}
+
+.enlace:hover{
+	background-color: #FAF5F5 !important;
+}
+
+.jumbotron{
+	background-image: url(../img/home.jpg);
+	height: 500px;
+}
+
+.titulo{
+	color: #fff !important;
+	margin-top:90px;
+}
+
+iframe{
+	max-width: 100%;
+	margin:20px 0;
+}
+
+.fondo-color{
+	background-color: #FCFF03;
+	padding: 50px 0;
+}
+
+h4{
+	margin-top: 40px;
+	
+}
+
+.imagen{
+	margin-top: 20px;
+}
+
+form{
+	margin:50px 0;
+}
+
+footer{
+	background-color: #4499A7;
+}
+
+.parrafo-footer{
+	color: #fff;
+	padding: 50px 0 ;
+}
+
+.link{
+	text-decoration:none;
+	color: #FFEB07;
+}
